@@ -1,0 +1,2317 @@
+/*****************
+* Sample outputs *
+******************/
+
+|------Average Time Menu------|
+1) Average time for Steepest Hill Algorithm.
+2) Average time for Min-Conflicts Algorithm.
+3) Exit.
+input> 1
+
+|-------Initial Board------|
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X Q X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q Q X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X Q 
+X Q X X X X X X X X Q Q X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 10 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X Q X X X 
+X Q X X X Q X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X Q X X X X X X X X X X X 
+X X X X X X X X Q X X X X Q X X Q X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 9
+Time: 6 milliseconds.
+
+|-------Initial Board------|
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X Q X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X Q X X X X Q X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+
+Nope ): h is: 5 number of steps: 5
+Time: 4 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X Q X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q Q X X X X X X X Q Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X Q Q X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X Q Q X X 
+Q X X X X X X X Q Q X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 12
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X Q X X X X 
+X X X Q X X X Q X X X X X X X X X X 
+X X X X X X X X Q X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X X Q X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X Q Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 7
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X Q X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X Q Q X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X Q X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X Q X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+
+Nope ): h is: 2 number of steps: 12
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X Q X X X X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X X X Q Q X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X Q X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+
+Nope ): h is: 5 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q Q X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X Q X X X 
+X X X X X X X X X X X X X X X Q X X 
+
+Nope ): h is: 5 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X Q X X Q Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+X Q X X Q Q X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+Q X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X Q X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X Q X X X X X X X X X X 
+X Q X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X Q X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X Q X X X X X X X X X 
+X X X X Q X Q X X X X X X X X X X Q 
+Q X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X Q X X X X 
+
+Nope ): h is: 5 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X Q X Q X X X X X 
+X X X X X X X X X X X X X Q X X X Q 
+X X X X X Q X X X X X X X X X X X X 
+Q X X Q X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X Q X X X 
+
+Nope ): h is: 4 number of steps: 9
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X Q X X X 
+X X X X Q Q X X X Q X X X X X X X X 
+X X X X X X Q X Q X X Q Q Q X X X X 
+Q X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q Q X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X X X X X 
+Q X X X X X Q X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X Q X X X X X 
+Q X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X Q X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q Q X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X Q X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X Q X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X Q X Q Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 7
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X Q X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X Q X X X X X 
+
+Nope ): h is: 4 number of steps: 10
+Time: 5 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X Q X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X Q X Q X X X X X X 
+X X X X Q X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q Q X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X Q X 
+
+Nope ): h is: 2 number of steps: 12
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X Q X X X 
+X Q X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X Q X X Q X X X Q X X 
+
+Nope ): h is: 3 number of steps: 7
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X Q X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X Q X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 6
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X Q X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X Q X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X Q X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 8
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X Q X X X X X X X X X Q Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 9
+Time: 4 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X Q X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X Q X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X Q X X X X Q X X X X X 
+Q X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q Q X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X Q X X X X X Q X X X X X 
+X Q Q X X X X X X Q X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 11
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X Q X X X X X X X X X 
+X X X X X X X X X Q X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+Nope ): h is: 4 number of steps: 10
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X Q X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X Q X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 1 number of steps: 9
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X Q X X X X X X X X X Q X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X Q Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X Q X X X X X X X X Q X 
+
+Nope ): h is: 3 number of steps: 7
+Time: 6 milliseconds.
+
+|-------Initial Board------|
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X Q X X X X 
+X Q Q X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+Nope ): h is: 4 number of steps: 7
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X Q X 
+Q X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X Q Q X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q Q X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 4 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X Q X X X X X X X X X X X 
+X X X X Q X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X Q X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 10
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X Q X X X X X X X X 
+X X X X Q X Q X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X Q Q X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X Q X Q 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X Q X X X X Q X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X Q X X X X 
+X X X X X X X Q X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 10
+Time: 4 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q Q X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X X X X Q X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 7
+Time: 7 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X Q X X X Q X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+X X X X X X Q X X X X X X Q Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X Q X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 11
+Time: 4 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X Q X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 10
+Time: 4 milliseconds.
+
+|-------Initial Board------|
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X Q X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X Q X X 
+X X X X Q X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X Q X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X Q X X X X Q X X X X X X 
+X Q Q X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+
+Nope ): h is: 3 number of steps: 7
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X Q X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X Q Q X X X X X X 
+X X X X X X X X X Q X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X Q X X X X X X X X X X X Q 
+X X X X X X Q X X Q X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q Q X X X X X X X X X 
+X X X X Q X X X X X Q X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X Q X X X X X 
+X Q X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 5 number of steps: 7
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X Q X Q X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X Q X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X Q X X 
+X X X X X Q X Q X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 5 number of steps: 12
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X Q X X X X X X X X 
+X X X Q X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X Q X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X Q X X Q 
+
+Nope ): h is: 2 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q Q Q X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 7
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X Q X X X X Q X X X X X X X X 
+X X X Q X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X Q X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X Q X X X X X X Q X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X X X X Q X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q X Q X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 14
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X Q X X X 
+X X X X X X X X X X X X X Q X Q X X 
+Q X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X Q X X X X X X X X X X Q X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X Q Q X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q Q Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X Q X Q 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+Q X Q X X X X X Q Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X Q X X X 
+
+Nope ): h is: 3 number of steps: 11
+Time: 3 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X Q X X X X Q X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X Q X X Q Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X Q Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X Q X Q X X X X X X 
+X X X X X X X X X X X X X Q X Q Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X Q X X Q X X X X X X X X X X X 
+Q X X X X Q X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X Q X X Q X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 12
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X Q X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X Q X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X Q Q X X X X X X X 
+X X X X X X Q X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X Q X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 12
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X Q X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q Q X X X Q X X Q 
+X X X X X X X X X X X Q X X X Q X X 
+X X X X Q Q X X X X X X X X X X Q X 
+X X X X X X X Q X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X Q X X X X X Q X X X 
+Q X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X Q X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X Q X Q X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X Q X X X 
+X X Q X X X X Q X X X X X Q X X X X 
+Q X X X X X X X Q X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 11
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X Q X Q X X 
+X X X X X X X X X Q Q Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+Nope ): h is: 2 number of steps: 7
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+Q Q X X X X X X X X X X X X X Q X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X Q X X X X X X X X 
+Q X X Q X X X X Q X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X Q X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+Nope ): h is: 4 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X Q X X X X X X 
+X X X Q X X Q X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q Q X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+
+Nope ): h is: 4 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X Q X 
+X X X X X X X X Q X X X Q X X X X X 
+Q X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X Q 
+
+Nope ): h is: 3 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X Q X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X Q Q 
+X X X X X X X X X X X X X X Q X X X 
+X X Q X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+Nope ): h is: 5 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X Q X 
+Q X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X Q X X X X 
+X X X X Q X X Q X X X X X X X X X X 
+X Q X X X X X X Q X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 11
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X Q X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X Q X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X Q X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X Q X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X Q X Q X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X Q X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X Q X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X Q X X X 
+
+Nope ): h is: 4 number of steps: 10
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X Q X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X Q X X X X X X X X X X Q 
+X X X X Q X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 6
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X Q X X X X X X X X X 
+X X X X X X X Q X X X X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X Q X X X X X X X X 
+X Q X Q X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 12
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X Q X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X Q X Q Q 
+X Q X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 11
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X Q X X X X 
+X X Q X X X X X X Q X X X X X Q X X 
+X X X Q X X X Q Q X X X X X X X Q X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X Q X X X X X 
+
+Nope ): h is: 3 number of steps: 13
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X Q X X X X X Q Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X Q X X Q 
+
+Nope ): h is: 4 number of steps: 8
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X Q Q X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X Q Q X X X X X X X X X X X X X 
+X X X X X X Q X X X Q Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 10
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+Q X X X X X X X X X X X X Q Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 11
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X Q X Q X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X Q 
+X X X Q Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 12
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X Q X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X Q X 
+X X X Q X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X Q X X X X X X X X 
+X X Q X Q X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X Q Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X Q X X X X Q 
+X X X X X X X X X Q X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q Q X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X Q X X Q X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 8
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+Q X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 5 number of steps: 10
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X Q X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X Q X X X X X X X 
+Q Q X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 5 number of steps: 11
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X Q X X X X X X X X Q X X X 
+X X Q Q X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X Q X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+
+Nope ): h is: 3 number of steps: 8
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X Q X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X Q X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+
+Nope ): h is: 2 number of steps: 7
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X Q X X X X X Q X X X 
+X Q X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X Q X X X X X X 
+Q X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 4 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X Q X X 
+X X X X X X X X Q X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q Q X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X Q X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+
+Nope ): h is: 1 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X Q X Q X X X X X X X X X X X X 
+X X Q X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+
+Nope ): h is: 2 number of steps: 8
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X Q X X X 
+X X X X X X Q X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X Q X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X Q Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X Q X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 5 number of steps: 11
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X Q X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q Q X X X X Q X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X Q X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 10
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X Q Q Q Q 
+X X Q X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 9
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X Q X X X X X X X X X X 
+Q X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X Q X X X X X X 
+
+Nope ): h is: 4 number of steps: 9
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X Q X X Q X X X X X X X 
+X X X X X Q X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X Q X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q Q X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 8
+Time: 2 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X Q X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X Q X 
+X X X Q X Q X X X X X X X X Q X X X 
+Q X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+
+Nope ): h is: 2 number of steps: 10
+Time: 1 milliseconds.
+
+|-------Initial Board------|
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X Q X X X Q X X 
+X Q X X Q X X X Q X X X Q X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X Q X X X X Q X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+Nope ): h is: 3 number of steps: 12
+Time: 2 milliseconds.
+Steepest Hill Algorithm
+Average time took: 2.25 milliseconds.
+0.0% of it was solved.
+|------Average Time Menu------|
+1) Average time for Steepest Hill Algorithm.
+2) Average time for Min-Conflicts Algorithm.
+3) Exit.
+input> 

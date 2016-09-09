@@ -1,0 +1,2905 @@
+/*****************
+* Sample outputs *
+******************/
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X Q X 
+X X Q X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X Q X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+
+this is the initial h: 18
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+h of n: 0
+Time: 8 milliseconds.
+
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X Q X X X X X X 
+X X X X Q X X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X Q Q X 
+X X X X X Q X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 17
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+
+h of n: 0
+Time: 20 milliseconds.
+
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X Q X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+
+this is the initial h: 21
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+h of n: 0
+Time: 43 milliseconds.
+
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X Q X X X X X X Q X X X X 
+X X X X X X X Q Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X Q X 
+X Q Q X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 31
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 5 milliseconds.
+
+X X X X X X X X Q X X X X X X X X X 
+Q X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X Q X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X Q 
+X Q X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 15
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 39 milliseconds.
+
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X Q X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X Q X X X X X X X X X X X 
+Q X X X X Q X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 20
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 11 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X Q 
+X X X Q X X X X X Q X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X Q X Q X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+
+this is the initial h: 15
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+
+h of n: 0
+Time: 12 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X X X Q X X X X X X X X X X X X X Q 
+X Q X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X Q X X X X X Q X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 17
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+h of n: 0
+Time: 36 milliseconds.
+
+X X X X X X X X X Q X X X Q X X X X 
+Q X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+X Q X Q X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X Q X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X Q X X X 
+
+this is the initial h: 17
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+
+h of n: 0
+Time: 27 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X Q X X 
+X Q X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X X X X Q X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 16
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+
+h of n: 0
+Time: 33 milliseconds.
+
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X X 
+X X X X Q X X X Q X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 16
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+h of n: 0
+Time: 10 milliseconds.
+
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X X 
+X X X X X X X X Q X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X Q X X X X X X X X X Q X X 
+X X Q X X X X X X Q X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 16
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+
+h of n: 0
+Time: 18 milliseconds.
+
+X X X X X X X X X X X X X X X X Q Q 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X Q X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X Q X X X X X X X Q Q X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 21
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 29 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+Q Q X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X Q X X X X X X X 
+X X Q X X X X X X X X X X Q X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+this is the initial h: 21
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+h of n: 0
+Time: 13 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X Q X X Q X X X X X X X 
+X X X X X X X X X X X Q X X X X X Q 
+X Q Q X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q Q X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+this is the initial h: 27
+X X X X X Q X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+h of n: 0
+Time: 21 milliseconds.
+
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X Q X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X Q X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X Q X X X X 
+
+this is the initial h: 16
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 31 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X Q Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q X X Q X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 14
+X X X X X X X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+
+h of n: 0
+Time: 35 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X Q X X X Q X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+
+this is the initial h: 22
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+h of n: 0
+Time: 15 milliseconds.
+
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X Q X X Q X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X Q X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 19
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+h of n: 0
+Time: 12 milliseconds.
+
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X Q X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q Q X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+
+this is the initial h: 19
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 21 milliseconds.
+
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 15
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+
+h of n: 0
+Time: 7 milliseconds.
+
+X X X X X X X X X X X X Q X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X Q X X X 
+X X X X Q X X Q X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+this is the initial h: 25
+X X X X X X X X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+h of n: 0
+Time: 24 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X Q X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q Q X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q Q X X X X X X X X X 
+
+this is the initial h: 18
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+
+h of n: 0
+Time: 21 milliseconds.
+
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q Q X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X Q 
+X X Q X X X X X X X X Q X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+this is the initial h: 23
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+h of n: 0
+Time: 7 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X Q X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 14
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+
+h of n: 0
+Time: 17 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X Q Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 21
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 13 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X Q X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+this is the initial h: 14
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+h of n: 0
+Time: 24 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X Q X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X Q X X 
+X X X X X Q X X X Q X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X Q X X X X X X X X X 
+
+this is the initial h: 14
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+
+h of n: 0
+Time: 44 milliseconds.
+
+X X X Q X X Q X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X Q X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+X X X X Q X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 18
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+
+h of n: 0
+Time: 12 milliseconds.
+
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X Q X X X 
+X X X X X X X X Q X X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X Q X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X Q X X X X X X 
+Q X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 15
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 10 milliseconds.
+
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X X X X X X X X Q X X Q X 
+X X X X X X X Q X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+this is the initial h: 21
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 8 milliseconds.
+
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X Q X X X X X X Q X X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+
+this is the initial h: 17
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 42 milliseconds.
+
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q Q X X Q X Q X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 19
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+h of n: 0
+Time: 5 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X Q X X Q X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X Q X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 17
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X Q X X X X X X X X X X 
+
+h of n: 0
+Time: 69 milliseconds.
+
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X Q Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X Q X X X X X Q X X X X Q Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+this is the initial h: 19
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 71 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X Q X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X Q X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q Q X X X X X X X 
+
+this is the initial h: 18
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+h of n: 0
+Time: 53 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X Q X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X Q Q X X X X X X 
+X X X Q X X X X X Q X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 20
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+h of n: 0
+Time: 32 milliseconds.
+
+X X X X Q X X X Q X X X X X X X X X 
+Q X X X X X X X X X X Q X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q Q X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X Q X X Q 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+this is the initial h: 18
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 5 milliseconds.
+
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X Q X X 
+X X X X X Q X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X Q X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+this is the initial h: 20
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+
+h of n: 0
+Time: 7 milliseconds.
+
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X Q X X X X X X X X X X X X 
+
+this is the initial h: 13
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+h of n: 0
+Time: 32 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X Q X X Q 
+X X Q X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X Q Q Q X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 28
+X X X X X X X X X X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+h of n: 0
+Time: 41 milliseconds.
+
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X X Q X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X Q Q X X X X X X X X X X X X 
+X X X X X X X X X X X X Q Q X X X X 
+X X X X X X X X Q X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 20
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 54 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X Q X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X Q Q X X X X Q X X 
+X Q X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+
+this is the initial h: 19
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+
+h of n: 0
+Time: 16 milliseconds.
+
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q Q X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q Q Q X X X X X X X X X X X Q Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 22
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+h of n: 0
+Time: 20 milliseconds.
+
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X Q X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X Q X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X Q X X 
+
+this is the initial h: 19
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+h of n: 0
+Time: 50 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X Q X Q X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X Q X X X X X 
+
+this is the initial h: 20
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+h of n: 0
+Time: 27 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X Q Q X X X X X X X X X X X X Q 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X Q X X X X X X X X X 
+Q X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X Q X X 
+X X Q X X X X X X X X X Q X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 26
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 10 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X Q Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X Q X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+this is the initial h: 16
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 16 milliseconds.
+
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q Q X X X X X X X X Q X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q Q X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+
+this is the initial h: 16
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+h of n: 0
+Time: 11 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X Q Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X Q X X 
+
+this is the initial h: 13
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+h of n: 0
+Time: 35 milliseconds.
+
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q Q X X X 
+X X X X Q X X X X Q X X X X X X X X 
+Q X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+this is the initial h: 12
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+
+h of n: 0
+Time: 24 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X Q X X X X X X X X X X X X X Q X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X Q X X X X X Q 
+X X X X X X Q X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+this is the initial h: 20
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X Q X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+
+h of n: 0
+Time: 45 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X Q X X Q Q X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X Q X X X X X X X X X X X X X 
+
+this is the initial h: 25
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 29 milliseconds.
+
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X Q X X Q X X X X Q X X X X X X X 
+X X X X X X Q X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X Q X X X Q Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X Q X 
+
+this is the initial h: 17
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+
+h of n: 0
+Time: 36 milliseconds.
+
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+Q X X X X X X Q X X X X X X X Q X X 
+X X X Q X X X X Q X X X X X X X X Q 
+X X X X X X Q X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X Q X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+this is the initial h: 20
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 118 milliseconds.
+
+X X X X X X X X X X X X Q X X X X X 
+Q X X X X X Q X X X X X X X X X Q X 
+X X Q Q X X X X X X X X X X Q X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q Q X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X Q X X X X 
+
+this is the initial h: 19
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+
+h of n: 0
+Time: 12 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q Q X X X Q X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X Q X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+
+this is the initial h: 30
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+h of n: 0
+Time: 13 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X Q X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q Q Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X Q X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 14
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+
+h of n: 0
+Time: 42 milliseconds.
+
+Q X X X X Q X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X Q X X X Q X X X Q X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+
+this is the initial h: 26
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+
+h of n: 0
+Time: 70 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X Q X X Q X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X Q Q X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+
+this is the initial h: 22
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X Q X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+h of n: 0
+Time: 27 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X Q Q X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X Q X Q X X X X X X X X X X 
+
+this is the initial h: 19
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+h of n: 0
+Time: 42 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q Q 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X Q X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X Q X X Q X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X Q X X X X Q X X X 
+
+this is the initial h: 22
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 16 milliseconds.
+
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X Q X X X X X Q X X 
+X X X X X Q X X X X X X X X X X X X 
+X Q X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X Q X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q Q X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+
+this is the initial h: 17
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+h of n: 0
+Time: 21 milliseconds.
+
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X Q 
+X Q X X X X X Q Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q Q X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 17
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X Q X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 32 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X Q X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X Q Q X Q X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X Q X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X Q X X 
+
+this is the initial h: 21
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+
+h of n: 0
+Time: 26 milliseconds.
+
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X Q X X X X X Q X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X Q X X X X X X X X X X X 
+Q X X X X X X Q X X X X X X X Q X X 
+X X X X X X X X X X X Q X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X Q 
+
+this is the initial h: 25
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+Q X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X Q X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X Q X X X X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 37 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X Q X Q X X Q X X X 
+X X X X X X X X X X X X X X X X X Q 
+X Q X X X Q X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X Q Q X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X Q X Q X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+
+this is the initial h: 23
+X X X X X X X Q X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X Q X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+
+h of n: 0
+Time: 45 milliseconds.
+
+Q X X X X Q X Q X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X Q X X X X X Q X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X Q X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+this is the initial h: 16
+X X X X X X X Q X X X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X X X X X X X Q X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X Q X X X X X X X X X X X 
+X X X X X X X X X Q X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X X X Q X X X X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+
+h of n: 0
+Time: 12 milliseconds.
+
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+X X X X X X X X X X X Q X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X Q X X X X X X X X X X Q X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X Q Q X Q X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X 
+X X X X X X Q X X Q X X X Q X X X X 
+X Q X X X X X X X X X X X X X Q X Q 
+X X Q X X X X X X X X X X X X X X X 
+
+this is the initial h: 18
+X X X X X X X Q X X X X X X X X X X 
+X X X Q X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X Q X X X X 
+X X X X X X X X X Q X X X X X X X X 
+X X X X X X X X X X X X X X Q X X X 
+X X X X X Q X X X X X X X X X X X X 
+X X X X X X X X X X X Q X X X X X X 
+X Q X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X Q X X X X X 
+X X X X X X X X X X X X X X X X X Q 
+X X X X X X Q X X X X X X X X X X X 
+X X Q X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X Q X X 
+X X X X X X X X X X Q X X X X X X X 
+Q X X X X X X X X X X X X X X X X X 
+X X X X Q X X X X X X X X X X X X X 
+X X X X X X X X Q X X X X X X X X X 
+X X X X X X X X X X X X X X X X Q X 
+
+h of n: 0
+Time: 14 milliseconds.
+Min Conflict Algorithm
+Average time took: 31.61 milliseconds.
+|------Average Time Menu------|
+1) Average time for Steepest Hill Algorithm.
+2) Average time for Min-Conflicts Algorithm.
+3) Exit.
+input> 
